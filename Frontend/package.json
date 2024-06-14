@@ -1,5 +1,5 @@
 {
-  "homepage":"https//juhikalsi04.github.io/learnskillz",
+  "homepage": "https//juhikalsi04.github.io/learnskillzz",
   "name": "learnskillz",
   "version": "0.1.0",
   "private": true,
@@ -16,13 +16,13 @@
     "react-icons": "^4.11.0",
     "react-redux": "^8.1.3",
     "react-router-dom": "^6.16.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "redux-thunk": "^2.4.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,6 +47,14 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-transform-class-properties": "^7.24.7",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.7",
+    "@babel/plugin-transform-numeric-separator": "^7.24.7",
+    "@babel/plugin-transform-optional-chaining": "^7.24.7",
+    "@babel/plugin-transform-private-methods": "^7.24.7",
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@rollup/plugin-terser": "^0.4.4",
+    "svgo": "^2.8.0",
     "tailwindcss": "^3.4.3"
   },
   "proxy": "http://localhost:5000"
