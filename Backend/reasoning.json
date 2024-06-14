@@ -1,0 +1,255 @@
+
+[
+  {
+    "question": "If BROMIDE is written as 7221564, then how would you write CLOTH?",
+    "options": [
+      "43652",
+      "37492",
+      "46252",
+      "46352"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If RESPECT is written as TEPCSER, then how would you write OPINION?",
+    "options": [
+      "OINPINO",
+      "NOIPINO",
+      "OIPNOIN",
+      "NOIPION"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If WALK is written as 2315124, then how would you write RAIN?",
+    "options": [
+      "9187",
+      "19189",
+      "1949",
+      "19119"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If CLOCK is written as CLOKC, then how would you write PAPER?",
+    "options": [
+      "PAPRE",
+      "PAEPR",
+      "PPER",
+      "PAPER"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If CLOUD is written as XQGRP, then how would you write RIVER?",
+    "options": [
+      "SOYCP",
+      "EIPVS",
+      "EMGVT",
+      "SOVCP"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If CHAIR is written as HRIAC, then how would you write TABLE?",
+    "options": [
+      "TABER",
+      "BALET",
+      "TLBEA",
+      "BAELT"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If in a certain code, 'DANCE' is written as 'XVBOM', how is 'HOUSE' written in that code?",
+    "options": [
+      "SRLJB",
+      "SPRJB",
+      "SPRIB",
+      "SRLIB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If in a certain code, 'DROWN' is written as 'MROLD', how is 'SHINE' written in that code?",
+    "options": [
+      "CJMRF",
+      "CJMHR",
+      "RJWMC",
+      "CJRMF"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If in a certain code, 'SCHOOL' is written as 'RSBCKL', how is 'TABLE' written in that code?",
+    "options": [
+      "STRML",
+      "QSAKD",
+      "USDKD",
+      "TKZMD"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If in a certain code, 'TIMES' is written as 'YRNIV', how is 'NEST' written in that code?",
+    "options": [
+      "OPRW",
+      "OQSV",
+      "OQSW",
+      "OPSW"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If in a certain code, 'PURPOSE' is written as 'RQUQSGF', how is 'TROUBLE' written in that code?",
+    "options": [
+      "QVSPMFK",
+      "SQVPGFK",
+      "QVSPGFK",
+      "SQVPMFK"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If in a certain code, 'MONDAY' is written as 'MPOECZ', how is 'SUNDAY' written in that code?",
+    "options": [
+      "SNZEOZ",
+      "TPOEBZ",
+      "TPOECZ",
+      "SPOEBZ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If in a certain code, 'TEACHER' is written as 'GCPFXBQ', how is 'SCHOOL' written in that code?",
+    "options": [
+      "WUGGNR",
+      "VUFHNQ",
+      "WUFHNR",
+      "VUGGMR"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If in a certain code, 'LEGEND' is written as 'DFAEFK', how is 'PROBLEM' written in that code?",
+    "options": [
+      "SOGSDRM",
+      "OSGSDRM",
+      "OSGRDMS",
+      "SOGSMDR"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If in a certain code, 'VISION' is written as 'IGVSNO', how is 'ACTION' written in that code?",
+    "options": [
+      "NAOICT",
+      "AONICT",
+      "NAOITC",
+      "AONITC"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If in a certain code, 'WINTER' is written as 'ZKPLCU', how is 'SUMMER' written in that code?",
+    "options": [
+      "VKPPLM",
+      "VKPPKL",
+      "VLPMKP",
+      "VKLPMK"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If in a certain code, 'DEMAND' is written as 'JEWJAF', how is 'DECIDE' written in that code?",
+    "options": [
+      "JEJJFE",
+      "JEBJFE",
+      "JEGJFE",
+      "JEJJEF"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If in a certain code, 'POLICE' is written as 'SGPKCI', how is 'BORDER' written in that code?",
+    "options": [
+      "DPTGFS",
+      "DPUGFS",
+      "DPTGES",
+      "DPTGGS"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If in a certain code, 'HONEST' is written as 'JQPVDV', how is 'CAUGHT' written in that code?",
+    "options": [
+      "ECVGPK",
+
+
+"ECUFPK",
+      "EIVGPK",
+      "ECVGJK"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If in a certain code, 'FORMAL' is written as 'LVSZNY', how is 'COWARD' written in that code?",
+    "options": [
+      "APSLZH",
+      "APSMZI",
+      "APSLZI",
+      "APSKZH"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If in a certain code, 'VILLAIN' is written as 'VLNIILA', how is 'ABNORMAL' written in that code?",
+    "options": [
+      "BANORMAL",
+      "BNORMAAL",
+      "ABNORMAL",
+      "AABNORMAL"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If in a certain code, 'WONDER' is written as 'DRXNGR', how is 'CREATE' written in that code?",
+    "options": [
+      "HQVYQI",
+      "GQVTQH",
+      "GRVUQH",
+      "GQVUQH"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If in a certain code, 'WISDOM' is written as 'WJDQGL', how is 'WONDER' written in that code?",
+    "options": [
+      "WMPNFC",
+      "WKPOEC",
+      "WKPNFC",
+      "WMPMFC"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If in a certain code, 'POISON' is written as 'SNOISO', how is 'POLITE' written in that code?",
+    "options": [
+      "SNOLTI",
+      "TLILOP",
+      "TLISOP",
+      "SNILTO"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If in a certain code, 'FRIEND' is written as 'HVTJHF', how is 'FAMILY' written in that code?",
+    "options": [
+      "IWCNKX",
+      "IWCNKY",
+      "HVCNKX",
+      "IWCNJY"
+    ],
+    "correctAnswer": 1
+  }
+]

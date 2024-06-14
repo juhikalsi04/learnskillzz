@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Choose the word which is most similar in meaning to the word 'commendable'.",
+    "options": ["Deserving commendation", "Incredible", "Incomprehensible", "Praiseworthy"],
+    "correctAnswer": "Praiseworthy"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'adequate'.",
+    "options": ["Sufficient", "Plentiful", "Suitable", "Inadequate"],
+    "correctAnswer": "Inadequate"
+  },
+  {
+    "question": "Select the word which means the same as 'careful'.",
+    "options": ["Slippery", "Careless", "Diligent", "Obstinate"],
+    "correctAnswer": "Diligent"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'dwindle'.",
+    "options": ["Expand", "Decrease", "Diminish", "Decline"],
+    "correctAnswer": "Expand"
+  },
+  {
+    "question": "Select the word which means the same as 'persist'.",
+    "options": ["Quit", "Desist", "Stop", "Continue"],
+    "correctAnswer": "Continue"
+  },
+  {
+    "question": "Choose the word which is most similar in meaning to the word 'confine'.",
+    "options": ["Limit", "Free", "Expand", "Reduce"],
+    "correctAnswer": "Limit"
+  },
+  {
+    "question": "Select the word which means the same as 'shatter'.",
+    "options": ["Collect", "Fix", "Break", "Attach"],
+    "correctAnswer": "Break"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'reprehensible'.",
+    "options": ["Blameless", "Despicable", "Worthy", "Respectable"],
+    "correctAnswer": "Blameless"
+  },
+  {
+    "question": "Select the word which means the same as 'mysterious'.",
+    "options": ["Known", "Clear", "Obvious", "Enigmatic"],
+    "correctAnswer": "Enigmatic"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'conceal'.",
+    "options": ["Expose", "Hide", "Cover", "Screen"],
+    "correctAnswer": "Expose"
+  },
+  {
+    "question": "Select the word which means the same as 'ruthless'.",
+    "options": ["Merciless", "Sympathetic", "Kind", "Compassionate"],
+    "correctAnswer": "Merciless"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'aloof'.",
+    "options": ["Friendly", "Unfriendly", "Indifferent", "Distant"],
+    "correctAnswer": "Friendly"
+  },
+  {
+    "question": "Select the word which means the same as 'perplex'.",
+    "options": ["Understand", "Clarify", "Confuse", "Simplify"],
+    "correctAnswer": "Confuse"
+  },
+  {
+    "question": "Choose the word which is most similar in meaning to the word 'elaborate'.",
+    "options": ["Simple", "Brief", "Complicated", "Difficult"],
+    "correctAnswer": "Complicated"
+  },
+  {
+    "question": "Select the word which means the same as 'arduous'.",
+    "options": ["Easy", "Simple", "Difficult", "Troublesome"],
+    "correctAnswer": "Difficult"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'tranquil'.",
+    "options": ["Quiet", "Calm", "Peaceful", "Turbulent"],
+    "correctAnswer": "Turbulent"
+  },
+  {
+    "question": "Select the word which means the same as 'obsolete'.",
+    "options": ["New", "Current", "Outdated", "Modern"],
+    "correctAnswer": "Outdated"
+  },
+  {
+    "question": "Choose the word which is most similar in meaning to the word 'plausible'.",
+    "options": ["Unbelievable", "Improbable", "Unconvincing", "Likely"],
+    "correctAnswer": "Likely"
+  },
+  {
+    "question": "Select the word which means the same as 'verbose'.",
+    "options": ["Concise", "Wordy", "Brief", "Terse"],
+    "correctAnswer": "Wordy"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'innocuous'.",
+    "options": ["Harmless", "Inoffensive", "Dangerous", "Safe"],
+    "correctAnswer": "Dangerous"
+  },
+  {
+    "question": "Select the word which means the same as 'predicament'.",
+    "options": ["Dilemma", "Advantage", "Benefit", "Opportunity"],
+    "correctAnswer": "Dilemma"
+  },
+  {
+    "question": "Choose the word which is most similar in meaning to the word 'serene'.",
+    "options": ["Harsh", "Peaceful", "Noisy", "Violent"],
+    "correctAnswer": "Peaceful"
+  },
+  {
+    "question": "Select the word which means the same as 'exquisite'.",
+    "options": ["Beautiful", "Ugly", "Plain", "Simple"],
+    "correctAnswer": "Beautiful"
+  },
+  {
+    "question": "Choose the word which is most opposite in meaning to the word 'proficient'.",
+    "options": ["Incompetent", "Skilled", "Talented", "Expert"],
+    "correctAnswer": "Incompetent"
+  },
+  {
+    "question": "Select the word which means the same as 'obscure'.",
+    "options": ["Clear", "Known", "Plain", "Unclear"],
+    "correctAnswer": "Unclear"
+  },
+  {
+    "question": "Choose the word which is most similar in meaning to the word 'pungent'.",
+    "options": ["Bland", "Spicy", "Sweet", "Sour"],
+    "correctAnswer": "Spicy"
+  }
+]

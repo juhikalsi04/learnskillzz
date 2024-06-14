@@ -1,0 +1,1903 @@
+[
+  {
+    "testNo": 1,
+    "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+    "options": [
+      "120 metres",
+      "180 metres",
+      "324 metres",
+      "150 metres"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "testNo": 1,
+    "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+    "options": [
+      "45 km/hr",
+      "50 km/hr",
+      "54 km/hr",
+      "55 km/hr"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "testNo": 1,
+    "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+    "options": [
+      "200 m",
+      "225 m",
+      "245 m",
+      "250 m"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "testNo": 1,
+    "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+    "options": [
+      "1 : 3",
+      "3 : 2",
+      "3 : 4",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+    "options": [
+      "120 m",
+      "240 m",
+      "300 m",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+    "options": [
+      "3.6",
+      "7.2",
+      "8.4",
+      "10"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+    "options": [
+      "300 kmph",
+      "360 kmph",
+      "600 kmph",
+      "720 kmph"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "testNo": 1,
+    "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+    "options": [
+      "50 km",
+      "56 km",
+      "70 km",
+      "80 km"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "testNo": 1,
+    "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+    "options": [
+      "100 kmph",
+      "110 kmph",
+      "120 kmph",
+      "130 kmph"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "testNo": 1,
+    "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "20"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :",
+    "options": [
+      "1/4",
+      "1/10",
+      "7/15",
+      "8/15"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "testNo": 1,
+    "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+    "options": [
+      "9 1/5 days",
+      "9 2/5 days",
+      "9 3/5 days",
+      "10"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "testNo": 1,
+    "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+    "options": [
+      "12 days",
+      "15 days",
+      "16 days",
+      "18 days"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+    "options": [
+      "20 days",
+      "22 1/2 days",
+      "25 days",
+      "30 days"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+    "options": [
+      "Rs. 375",
+      "Rs. 400",
+      "Rs. 600",
+      "Rs. 800"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+    "options": [
+      "Rs. 650",
+      "Rs. 690",
+      "Rs. 698",
+      "Rs. 700"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "testNo": 1,
+    "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+    "options": [
+      "Rs. 6400",
+      "Rs. 6500",
+      "Rs. 7200",
+      "Rs. 7500",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+    "options": [
+      "Rs. 4462.50",
+      "Rs. 8032.50",
+      "Rs. 8900",
+      "Rs. 8925",
+      "None of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "testNo": 1,
+    "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+    "options": [
+      "3.5 years",
+      "4 years",
+      "4.5 years",
+      "5 years"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "testNo": 1,
+    "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+    "options": [
+      "3.6",
+      "6",
+      "18",
+      "Cannot be determined",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  }
+,
+{
+  "testNo": 2,
+  "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is:",
+  "options": [
+    "Rs. 120",
+    "Rs. 121",
+    "Rs. 122",
+    "Rs. 123"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 2,
+  "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+  "options": [
+    "625",
+    "630",
+    "640",
+    "650"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 2,
+  "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+  "options": [
+    "Rs. 2160",
+    "Rs. 3120",
+    "Rs. 3972",
+    "Rs. 6240",
+    "None of these"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "What is the difference between the compound interests on Rs. 5000 for 1 years at 4% per annum compounded yearly and half-yearly?",
+  "options": [
+    "Rs. 2.04",
+    "Rs. 3.06",
+    "Rs. 4.80",
+    "Rs. 8.30"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+  "options": [
+    "2",
+    "2 1/2",
+    "3",
+    "4"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 2,
+  "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+  "options": [
+    "4 4/7 %",
+    "5 5/11%",
+    "10%",
+    "12%"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+  "options": [
+    "15",
+    "16",
+    "18",
+    "25"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 2,
+  "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+  "options": [
+    "66 2/3",
+    "100",
+    "105 1/3",
+    "120"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+  "options": [
+    "30%",
+    "70%",
+    "100%",
+    "250%"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 2,
+  "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+  "options": [
+    "Rs. 2000",
+    "Rs. 2200",
+    "Rs. 2400",
+    "Data inadequate"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 2,
+  "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+  "options": [
+    "Rs. 18.20",
+    "Rs. 70",
+    "Rs. 72",
+    "Rs. 88.25"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+  "options": [
+    "Rs. 1090",
+    "Rs. 1160",
+    "Rs. 1190",
+    "Rs. 1202"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+  "options": [
+    "3.5",
+    "4.5",
+    "5.6",
+    "6.5"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+  "options": [
+    "30%",
+    "33 1/3 %",
+    "35%",
+    "44%"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 2,
+  "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+  "options": [
+    "Rs. 1425",
+    "Rs. 1500",
+    "Rs. 1537.50",
+    "Rs. 1576"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 2,
+  "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+  "options": [
+    "Rs. 1900",
+    "Rs. 2660",
+    "Rs. 2800",
+    "Rs. 2840"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 2,
+  "question": "A, B and C enter into a partnership in the ratio 1:2:3. After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+  "options": [
+    "Rs. 2100",
+    "Rs. 2400",
+    "Rs. 3600",
+    "Rs. 4000"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+  "options": [
+    "Rs. 8400",
+    "Rs. 11,900",
+    "Rs. 13,600",
+    "Rs. 14,700"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 2,
+  "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+  "options": [
+    "5 : 7 : 8",
+    "20 : 49 : 64",
+    "38 : 28 : 21",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 3,
+  "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+  "options": [
+    "39, 30",
+    "41, 32",
+    "42, 33",
+    "43, 34"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+  "options": [
+    "588 apples",
+    "600 apples",
+    "672 apples",
+    "700 apples"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+  "options": [
+    "1",
+    "14",
+    "20",
+    "21"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+  "options": [
+    "A is smaller than B.",
+    "A is greater than B",
+    "Relationship between A and B cannot be determined.",
+    "If x is smaller than y, then A is greater than B.",
+    "None of these"
+  ],
+  "correctAnswer": 4
+},
+{
+  "testNo": 3,
+  "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+  "options": [
+    "1/2",
+    "2/5",
+    "8/15",
+    "9/20"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+  "options": [
+    "10/21",
+    "11/21",
+    "2/7",
+    "5/7"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 3,
+  "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+  "options": [
+    "1/3",
+    "3/4",
+    "7/19",
+    "8/21"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "What is the probability of getting a sum 9 from two throws of a dice?",
+  "options": [
+    "1/6",
+    "1/8",
+    "1/9",
+    "1/12"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "Three unbiased coins are tossed. What is the probability of getting at most two heads?",
+  "options": [
+    "3/4",
+    "1/4",
+    "3/8",
+    "7/8"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Key 2. Door 3. Lock 4. Room 5. Switch on",
+  "options": [
+    "5, 1, 2, 4, 3",
+    "4, 2, 1, 5, 3",
+    "1, 3, 2, 4, 5",
+    "1, 2, 3, 5, 4"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Word 2. Paragraph 3. Sentence 4. Letters 5. Phrase",
+  "options": [
+    "4, 1, 5, 2, 3",
+    "4, 1, 3, 5, 2",
+    "4, 2, 5, 1, 3",
+    "4, 1, 5, 3, 2"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Police 2. Punishment 3. Crime 4. Judge 5. Judgement",
+  "options": [
+    "3, 1, 2, 4, 5",
+    "1, 2, 4, 3, 5",
+    "5, 4, 3, 2, 1",
+    "3, 1, 4, 5, 2"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Family 2. Community 3. Member 4. Locality 5. Country",
+  "options": [
+    "3, 1, 2, 4, 5",
+    "3, 1, 2, 5, 4",
+    "3, 1, 4, 2, 5",
+    "3, 1, 4, 5, 2"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Poverty 2. Population 3. Death 4. Unemployment 5. Disease",
+  "options": [
+    "2, 3, 4, 5, 1",
+    "3, 4, 2, 5, 1",
+    "2, 4, 1, 5, 3",
+    "1, 2, 3, 4, 5"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+  "options": [
+    "120 metres",
+    "180 metres",
+    "324 metres",
+    "150 metres"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 3,
+  "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+  "options": [
+    "45 km/hr",
+    "50 km/hr",
+    "54 km/hr",
+    "55 km/hr"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+  "options": [
+    "200 m",
+    "225 m",
+    "245 m",
+    "250 m"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 3,
+  "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+  "options": [
+    "1 : 3",
+    "3 : 2",
+    "3 : 4",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 3,
+  "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+  "options": [
+    "120 m",
+    "240 m",
+    "300 m",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 3,
+  "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+  "options": [
+    "3.6",
+    "7.2",
+    "8.4",
+    "10"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 4,
+  "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+  "options": [
+    "300 kmph",
+    "360 kmph",
+    "600 kmph",
+    "720 kmph"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 4,
+  "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+  "options": [
+    "50 km",
+    "56 km",
+    "70 km",
+    "80 km"
+  ],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 4,
+  "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+  "options": [
+    "100 kmph",
+    "110 kmph",
+    "120 kmph",
+    "130 kmph"
+  ],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 4,
+  "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+  "options": [
+    "9",
+    "10",
+    "12",
+    "20"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :",
+  "options": [
+    "1/4",
+    "1/10",
+    "7/15",
+    "8/15"
+  ],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 4,
+  "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+  "options": [
+    "9 1/5 days",
+    "9 2/5 days",
+    "9 3/5 days",
+    "10"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 4,
+  "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+  "options": [
+    "12 days",
+    "15 days",
+    "16 days",
+    "18 days"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+  "options": [
+    "20 days",
+    "22 1/2 days",
+    "25 days",
+    "30 days"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+  "options": [
+    "Rs. 375",
+    "Rs. 400",
+    "Rs. 600",
+    "Rs. 800"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+  "options": [
+    "Rs. 650",
+    "Rs. 690",
+    "Rs. 698",
+    "Rs. 700"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 4,
+  "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+  "options": [
+    "Rs. 6400",
+    "Rs. 6500",
+    "Rs. 7200",
+    "Rs. 7500"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+  "options": [
+    "Rs. 4462.50",
+    "Rs. 8032.50",
+    "Rs. 8900",
+    "Rs. 8925"
+  ],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 4,
+  "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+  "options": [
+    "3.5 years",
+    "4 years",
+    "4.5 years",
+    "5 years"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+  "options": [
+    "3.6",
+    "6",
+    "18",
+    "Cannot be determined"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is:",
+  "options": [
+    "Rs. 120",
+    "Rs. 121",
+    "Rs. 122",
+    "Rs. 123"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 4,
+  "question": "What sum of money at compound interest will amount to Rs. 6500 in 2 years and to Rs. 6760 in 3 years?",
+  "options": [
+    "Rs. 3200",
+    "Rs. 3250",
+    "Rs. 3325",
+    "Rs. 3400"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "The compound interest on a certain sum for 2 years at 10% per annum is Rs. 630. The simple interest on the same sum for double the time at half the rate percent per annum is:",
+  "options": [
+    "Rs. 300",
+    "Rs. 400",
+    "Rs. 500",
+    "Rs. 600"
+  ],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 4,
+  "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Rs. 1. The sum is:",
+  "options": [
+    "Rs. 625",
+    "Rs. 630",
+    "Rs. 640",
+    "Rs. 650"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "A sum of money lent out at simple interest amounts to Rs. 720 after 2 years and to Rs. 1020 after a further period of 5 years. The sum is:",
+  "options": [
+    "Rs. 600",
+    "Rs. 620",
+    "Rs. 640",
+    "Rs. 650"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 4,
+  "question": "How much time will it take for an amount of Rs. 900 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+  "options": [
+    "3.5 years",
+    "4 years",
+    "4.5 years",
+    "5 years"
+  ],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 5,
+  "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+  "options": ["15", "16", "18", "25"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+  "options": ["66 2/3", "100", "105 1/3", "120"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+  "options": ["30%", "70%", "100%", "250%"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+  "options": ["3", "4", "5", "6"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+  "options": ["Rs. 2000", "Rs. 2200", "Rs. 2400", "Data inadequate"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+  "options": ["Rs. 18.20", "Rs. 70", "Rs. 72", "Rs. 88.25"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+  "options": ["Rs. 1090", "Rs. 1160", "Rs. 1190", "Rs. 1202"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+  "options": ["3.5", "4.5", "5.6", "6.5"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+  "options": ["30%", "33 1/3 %", "35%", "44%"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+  "options": ["Rs. 1425", "Rs. 1500", "Rs. 1537.50", "Rs. 1576"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+  "options": ["Rs. 1900", "Rs. 2660", "Rs. 2800", "Rs. 2840"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "A, B and C enter into a partnership in the ratio 1:2:3. After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+  "options": ["Rs. 2100", "Rs. 2400", "Rs. 3600", "Rs. 4000"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+  "options": ["Rs. 8400", "Rs. 11,900", "Rs. 13,600", "Rs. 14,700"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+  "options": ["5 : 7 : 8", "20 : 49 : 64", "38 : 28 : 21", "None of these"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 5,
+  "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+  "options": ["39, 30", "41, 32", "42, 33", "43, 34"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+  "options": ["588 apples", "600 apples", "672 apples", "700 apples"],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 5,
+  "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+  "options": ["1", "14", "20", "21"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 5,
+  "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+  "options": ["A is smaller than B.", "A is greater than B", "Relationship between A and B cannot be determined.", "If x is smaller than y, then A is greater than B.", "None of these"],
+  "correctAnswerIndex": 4
+},
+{
+  "testNo": 5,
+  "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+  "options": ["1/2", "2/5", "8/15", "9/20"],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 5,
+  "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+  "options": ["10/21", "11/21", "2/7", "5/7"],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 6,
+  "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+  "options": [
+    "300 kmph",
+    "360 kmph",
+    "600 kmph",
+    "720 kmph"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 6,
+  "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+  "options": [
+    "50 km",
+    "56 km",
+    "70 km",
+    "80 km"
+  ],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 6,
+  "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+  "options": [
+    "100 kmph",
+    "110 kmph",
+    "120 kmph",
+    "130 kmph"
+  ],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 6,
+  "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+  "options": [
+    "9",
+    "10",
+    "12",
+    "20"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 6,
+  "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :",
+  "options": [
+    "1/4",
+    "1/10",
+    "7/15",
+    "8/15"
+  ],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 6,
+  "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+  "options": [
+    "9 1/5 days",
+    "9 2/5 days",
+    "9 3/5 days",
+    "10"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 6,
+  "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+  "options": [
+    "12 days",
+    "15 days",
+    "16 days",
+    "18 days"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 6,
+  "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+  "options": [
+    "20 days",
+    "22 1/2 days",
+    "25 days",
+    "30 days"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 6,
+  "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+  "options": [
+    "Rs. 375",
+    "Rs. 400",
+    "Rs. 600",
+    "Rs. 800"
+  ],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 6,
+  "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+  "options": [
+    "Rs. 650",
+    "Rs. 690",
+    "Rs. 698",
+    "Rs. 700"
+  ],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 7,
+  "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is:",
+  "options": [
+    "Rs. 120",
+    "Rs. 121",
+    "Rs. 122",
+    "Rs. 123"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 7,
+  "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+  "options": [
+    "625",
+    "630",
+    "640",
+    "650"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 7,
+  "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+  "options": [
+    "Rs. 2160",
+    "Rs. 3120",
+    "Rs. 3972",
+    "Rs. 6240",
+    "None of these"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "What is the difference between the compound interests on Rs. 5000 for 1 years at 4% per annum compounded yearly and half-yearly?",
+  "options": [
+    "Rs. 2.04",
+    "Rs. 3.06",
+    "Rs. 4.80",
+    "Rs. 8.30"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+  "options": [
+    "2",
+    "2 1/2",
+    "3",
+    "4"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 7,
+  "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+  "options": [
+    "4 4/7 %",
+    "5 5/11%",
+    "10%",
+    "12%"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+  "options": [
+    "15",
+    "16",
+    "18",
+    "25"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 7,
+  "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+  "options": [
+    "66 2/3",
+    "100",
+    "105 1/3",
+    "120"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+  "options": [
+    "30%",
+    "70%",
+    "100%",
+    "250%"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 7,
+  "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+  "options": [
+    "Rs. 2000",
+    "Rs. 2200",
+    "Rs. 2400",
+    "Data inadequate"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 7,
+  "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+  "options": [
+    "Rs. 18.20",
+    "Rs. 70",
+    "Rs. 72",
+    "Rs. 88.25"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+  "options": [
+    "Rs. 1090",
+    "Rs. 1160",
+    "Rs. 1190",
+    "Rs. 1202"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+  "options": [
+    "3.5",
+    "4.5",
+    "5.6",
+    "6.5"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+  "options": [
+    "30%",
+    "33 1/3 %",
+    "35%",
+    "44%"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 7,
+  "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+  "options": [
+    "Rs. 1425",
+    "Rs. 1500",
+    "Rs. 1537.50",
+    "Rs. 1576"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 7,
+  "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+  "options": [
+    "Rs. 1900",
+    "Rs. 2660",
+    "Rs. 2800",
+    "Rs. 2840"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 7,
+  "question": "A, B and C enter into a partnership in the ratio 1:2:3. After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+  "options": [
+    "Rs. 2100",
+    "Rs. 2400",
+    "Rs. 3600",
+    "Rs. 4000"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+  "options": [
+    "Rs. 8400",
+    "Rs. 11,900",
+    "Rs. 13,600",
+    "Rs. 14,700"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 7,
+  "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+  "options": [
+    "5 : 7 : 8",
+    "20 : 49 : 64",
+    "38 : 28 : 21",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 8,
+  "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+  "options": [
+    "39, 30",
+    "41, 32",
+    "42, 33",
+    "43, 34"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+  "options": [
+    "588 apples",
+    "600 apples",
+    "672 apples",
+    "700 apples"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+  "options": [
+    "1",
+    "14",
+    "20",
+    "21"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+  "options": [
+    "A is smaller than B.",
+    "A is greater than B",
+    "Relationship between A and B cannot be determined.",
+    "If x is smaller than y, then A is greater than B.",
+    "None of these"
+  ],
+  "correctAnswer": 4
+},
+{
+  "testNo": 8,
+  "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+  "options": [
+    "1/2",
+    "2/5",
+    "8/15",
+    "9/20"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+  "options": [
+    "10/21",
+    "11/21",
+    "2/7",
+    "5/7"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 8,
+  "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+  "options": [
+    "1/3",
+    "3/4",
+    "7/19",
+    "8/21"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "What is the probability of getting a sum 9 from two throws of a dice?",
+  "options": [
+    "1/6",
+    "1/8",
+    "1/9",
+    "1/12"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "Three unbiased coins are tossed. What is the probability of getting at most two heads?",
+  "options": [
+    "3/4",
+    "1/4",
+    "3/8",
+    "7/8"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Key 2. Door 3. Lock 4. Room 5. Switch on",
+  "options": [
+    "5, 1, 2, 4, 3",
+    "4, 2, 1, 5, 3",
+    "1, 3, 2, 4, 5",
+    "1, 2, 3, 5, 4"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Word 2. Paragraph 3. Sentence 4. Letters 5. Phrase",
+  "options": [
+    "4, 1, 5, 2, 3",
+    "4, 1, 3, 5, 2",
+    "4, 2, 5, 1, 3",
+    "4, 1, 5, 3, 2"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Police 2. Punishment 3. Crime 4. Judge 5. Judgement",
+  "options": [
+    "3, 1, 2, 4, 5",
+    "1, 2, 4, 3, 5",
+    "5, 4, 3, 2, 1",
+    "3, 1, 4, 5, 2"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Family 2. Community 3. Member 4. Locality 5. Country",
+  "options": [
+    "3, 1, 2, 4, 5",
+    "3, 1, 2, 5, 4",
+    "3, 1, 4, 2, 5",
+    "3, 1, 4, 5, 2"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "Arrange the words given below in a meaningful sequence.\n1. Poverty 2. Population 3. Death 4. Unemployment 5. Disease",
+  "options": [
+    "2, 3, 4, 5, 1",
+    "3, 4, 2, 5, 1",
+    "2, 4, 1, 5, 3",
+    "1, 2, 3, 4, 5"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+  "options": [
+    "120 metres",
+    "180 metres",
+    "324 metres",
+    "150 metres"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 8,
+  "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+  "options": [
+    "45 km/hr",
+    "50 km/hr",
+    "54 km/hr",
+    "55 km/hr"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+  "options": [
+    "200 m",
+    "225 m",
+    "245 m",
+    "250 m"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 8,
+  "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+  "options": [
+    "1 : 3",
+    "3 : 2",
+    "3 : 4",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 8,
+  "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+  "options": [
+    "120 m",
+    "240 m",
+    "300 m",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 8,
+  "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+  "options": [
+    "3.6",
+    "7.2",
+    "8.4",
+    "10"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 9,
+  "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+  "options": ["15", "16", "18", "25"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+  "options": ["66 2/3", "100", "105 1/3", "120"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+  "options": ["30%", "70%", "100%", "250%"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+  "options": ["3", "4", "5", "6"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+  "options": ["Rs. 2000", "Rs. 2200", "Rs. 2400", "Data inadequate"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+  "options": ["Rs. 18.20", "Rs. 70", "Rs. 72", "Rs. 88.25"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+  "options": ["Rs. 1090", "Rs. 1160", "Rs. 1190", "Rs. 1202"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+  "options": ["3.5", "4.5", "5.6", "6.5"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+  "options": ["30%", "33 1/3 %", "35%", "44%"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+  "options": ["Rs. 1425", "Rs. 1500", "Rs. 1537.50", "Rs. 1576"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+  "options": ["Rs. 1900", "Rs. 2660", "Rs. 2800", "Rs. 2840"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "A, B and C enter into a partnership in the ratio 1:2:3. After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+  "options": ["Rs. 2100", "Rs. 2400", "Rs. 3600", "Rs. 4000"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+  "options": ["Rs. 8400", "Rs. 11,900", "Rs. 13,600", "Rs. 14,700"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+  "options": ["5 : 7 : 8", "20 : 49 : 64", "38 : 28 : 21", "None of these"],
+  "correctAnswerIndex": 1
+},
+{
+  "testNo": 9,
+  "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+  "options": ["39, 30", "41, 32", "42, 33", "43, 34"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+  "options": ["588 apples", "600 apples", "672 apples", "700 apples"],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 9,
+  "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+  "options": ["1", "14", "20", "21"],
+  "correctAnswerIndex": 2
+},
+{
+  "testNo": 9,
+  "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+  "options": ["A is smaller than B.", "A is greater than B", "Relationship between A and B cannot be determined.", "If x is smaller than y, then A is greater than B.", "None of these"],
+  "correctAnswerIndex": 4
+},
+{
+  "testNo": 9,
+  "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+  "options": ["1/2", "2/5", "8/15", "9/20"],
+  "correctAnswerIndex": 3
+},
+{
+  "testNo": 9,
+  "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+  "options": ["10/21", "11/21", "2/7", "5/7"],
+  "correctAnswerIndex": 0
+},
+{
+  "testNo": 10,
+  "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+  "options": [
+    "120 metres",
+    "180 metres",
+    "324 metres",
+    "150 metres"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 10,
+  "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+  "options": [
+    "45 km/hr",
+    "50 km/hr",
+    "54 km/hr",
+    "55 km/hr"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 10,
+  "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+  "options": [
+    "200 m",
+    "225 m",
+    "245 m",
+    "250 m"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+  "options": [
+    "1 : 3",
+    "3 : 2",
+    "3 : 4",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+  "options": [
+    "120 m",
+    "240 m",
+    "300 m",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+  "options": [
+    "3.6",
+    "7.2",
+    "8.4",
+    "10"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+  "options": [
+    "300 kmph",
+    "360 kmph",
+    "600 kmph",
+    "720 kmph"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 10,
+  "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+  "options": [
+    "50 km",
+    "56 km",
+    "70 km",
+    "80 km"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 10,
+  "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+  "options": [
+    "100 kmph",
+    "110 kmph",
+    "120 kmph",
+    "130 kmph"
+  ],
+  "correctAnswer": 0
+},
+{
+  "testNo": 10,
+  "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+  "options": [
+    "9",
+    "10",
+    "12",
+    "20"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :",
+  "options": [
+    "1/4",
+    "1/10",
+    "7/15",
+    "8/15"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 10,
+  "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+  "options": [
+    "9 1/5 days",
+    "9 2/5 days",
+    "9 3/5 days",
+    "10"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 10,
+  "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+  "options": [
+    "12 days",
+    "15 days",
+    "16 days",
+    "18 days"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+  "options": [
+    "20 days",
+    "22 1/2 days",
+    "25 days",
+    "30 days"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+  "options": [
+    "Rs. 375",
+    "Rs. 400",
+    "Rs. 600",
+    "Rs. 800"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+  "options": [
+    "Rs. 650",
+    "Rs. 690",
+    "Rs. 698",
+    "Rs. 700"
+  ],
+  "correctAnswer": 2
+},
+{
+  "testNo": 10,
+  "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+  "options": [
+    "Rs. 6400",
+    "Rs. 6500",
+    "Rs. 7200",
+    "Rs. 7500",
+    "None of these"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+  "options": [
+    "Rs. 4462.50",
+    "Rs. 8032.50",
+    "Rs. 8900",
+    "Rs. 8925",
+    "None of these"
+  ],
+  "correctAnswer": 3
+},
+{
+  "testNo": 10,
+  "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+  "options": [
+    "3.5 years",
+    "4 years",
+    "4.5 years",
+    "5 years"
+  ],
+  "correctAnswer": 1
+},
+{
+  "testNo": 10,
+  "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+  "options": [
+    "3.6",
+    "6",
+    "18",
+    "Cannot be determined",
+    "None of these"
+  ],
+  "correctAnswer": 1
+}
+]

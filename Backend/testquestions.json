@@ -1,0 +1,277 @@
+[
+  {
+      "testNo": 1,
+      "question": "If the ratio of boys to girls in a class is 2:3, and there are 25 boys, how many girls are there?",
+      "options": [
+          "10",
+          "15",
+          "20",
+          "25"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 1,
+      "question": "If the price of an item is increased by 10% and then reduced by 10%, what is the net change in price?",
+      "options": [
+          "No change",
+          "5% increase",
+          "5% decrease",
+          "10% increase"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "testNo": 1,
+      "question": "If a car travels at a speed of 60 km/h, how far will it travel in 5 hours?",
+      "options": [
+          "250 km",
+          "300 km",
+          "350 km",
+          "400 km"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 2,
+      "question": "Which number should replace the question mark in the following series? 3, 6, 9, 12, ?",
+      "options": [
+          "15",
+          "16",
+          "18",
+          "21"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "testNo": 3,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+          "Charles Dickens",
+          "William Shakespeare",
+          "Jane Austen",
+          "Mark Twain"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 3,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Leonardo da Vinci",
+          "Claude Monet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 1,
+      "question": "What is 30% of 80?",
+      "options": [
+          "20",
+          "24",
+          "30",
+          "32"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 1,
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+      "options": [
+          "20",
+          "24",
+          "32",
+          "64"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 3,
+      "question": "What is the currency of Japan?",
+      "options": [
+          "Yen",
+          "Won",
+          "Ringgit",
+          "Baht"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "testNo": 3,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+          "China",
+          "Japan",
+          "South Korea",
+          "Vietnam"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 1,
+      "question": "What is 25% of 200?",
+      "options": [
+          "40",
+          "45",
+          "50",
+          "55"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 1,
+      "question": "What is the square root of 144?",
+      "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 2,
+      "question": "If today is Sunday, what day will it be in 300 days?",
+      "options": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 2,
+      "question": "If all pencils are pens and some pens are markers, then which of the following statements is necessarily true?",
+      "options": [
+          "All pencils are markers",
+          "All markers are pencils",
+          "Some pencils are markers",
+          "All markers are pens"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 3,
+      "question": "What is the largest mammal in the world?",
+      "options": [
+          "Elephant",
+          "Blue Whale",
+          "Giraffe",
+          "Hippopotamus"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 2,
+      "question": "Arrange the words in alphabetical order: Dog, Cat, Elephant, Rabbit",
+      "options": [
+          "Cat, Dog, Elephant, Rabbit",
+          "Dog, Cat, Elephant, Rabbit",
+          "Elephant, Rabbit, Dog, Cat",
+          "Cat, Dog, Rabbit, Elephant"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "testNo": 2,
+      "question": "If all cars are vehicles and some vehicles are dogs, then which of the following statements is necessarily true?",
+      "options": [
+          "Some cars are dogs",
+          "All dogs are cars",
+          "Some vehicles are cars",
+          "All cars are dogs"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 2,
+      "question": "Which number should come next in the series? 2, 4, 8, 16, ...",
+      "options": [
+          "24",
+          "32",
+          "48",
+          "64"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 3,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 2,
+      "question": "If today is Monday, what day will it be in 10 days?",
+      "options": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 1,
+      "question": "If 3x + 5 = 20, what is the value of x?",
+      "options": [
+          "3",
+          "5",
+          "7",
+          "9"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 3,
+      "question": "In what year did World War II end?",
+      "options": [
+          "1943",
+          "1945",
+          "1947",
+          "1950"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 1,
+      "question": "If the area of a rectangle is 36 square meters and the width is 4 meters, what is the length?",
+      "options": [
+          "6 meters",
+          "8 meters",
+          "9 meters",
+          "12 meters"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "testNo": 3,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Nitrogen",
+          "Hydrogen"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "testNo": 3,
+      "question": "What is the capital of France?",
+      "options": [
+          "Berlin",
+          "Madrid",
+          "Paris",
+          "Rome"
+      ],
+      "correctAnswer": 2
+  }
+]

@@ -1,0 +1,403 @@
+[
+    {
+      "name": "TCS",
+      "description": "TCS is a multinational information technology services and consulting company headquartered in Mumbai, India. It is the largest Indian company by market capitalization. It hires UG freshers for main 3 positions - Ninja (3 lakh package), Digital (7 Lakh Package), and Prime (9 lakh package) and for PG freshers also. In written test company give 2 main section : foundation section and Advance section. In foundation section there are 65 total question that we need to solve in 75 minutes. In advance section there is total 25 questions that we need to solve in 20 minutes and 2 coding question one medium and one easy.",
+      "hiringFlow": [
+        "Written Aptitude and coding Test(20-20 questions in numerical and reasoning and 25 in verbal)",
+        "Technical Interview",
+        "Managerial Interview (Sometimes)",
+        "HR Interview"
+      ],
+      "eligibilityCriteria": [
+        "Candidates must have a minimum of 60% throughout academics",
+        "No active backlogs",
+        "Should meet other criteria specified by TCS",
+        "PG courses allowed - M.E./ M.TECH/M.C.A/M.SC",
+        "UG courses allowed - B.E. / B.Tech",
+        "passing in year 2024",
+        "You can find job in tied-up company with tcs by giving tcs paid-nqt"
+      ],
+      "aptitudeSyllabus": [
+        "Number System",
+        "Elementary Statistics",
+        "Data Interpretation",
+        "percentage",
+        "profit and loss",
+        "Ratio and Proportion",
+        "Simple Interest & compound Interest",
+        "Mixture and alligation",
+        "Time and Work",
+        "Speed-Distance and time",
+        "Linear equation",
+        "Permutation and combination",
+        "Probability",
+        "Pipes and Cisterns"
+      ],
+      "reasoningSyllabus": [
+        "Logical deductive Reasoning",
+        "Analytical Reasoning",
+        "Puzzles",
+        "Pattern Recognition",
+        "Letter and number Series",
+        "Blood relation",
+        "Seating arrangements",
+        "Data Sufficiency",
+        "Syllogism",
+        "Coding Decoding",
+        "Direction"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Sentence Correction and Sentence Completion",
+        "Error spotting",
+        "Direct Indirect Speech",
+        "Active-Passive Voice",
+        "Synonym and Antonym",
+        "Subject verb Agreement",
+        "Preposition, Noun, Adjective, Adverbs"
+      ],
+      "website": "https://www.tcs.com"
+    },
+    {
+      "name": "Hexaware-Technologies",
+      "description": "Hexaware Technologies is a global IT, business process outsourcing (BPO), and consulting company. The company provides services and solutions in areas such as application development and maintenance, enterprise solutions, cloud services, digital assurance, infrastructure management, and business process services. Headquartered in Navi Mumbai, India and other locations are - Chennai and pune.Hexaware operates in multiple countries and serves a diverse set of clients across various industries.Hexaware Technologies typically hires freshers through campus recruitment drives and direct applications.For hiring on campus it uses Superset platform and whole process conducted on this platform.All rounds are Elimination round for campus hiring. For On Campus ,company offers 2 positions : Graduate Engineer Trainee (4LPA) and Post Graduate trainee (6 LPA) with 2 years Agreement.",
+      "hiringFlow": [
+        "Aptitute tests(Apitute,Reasoning,Verbal)",
+        "Communication Test(4 section - reading , error spotting, paragraph questions , 1 min speech on given topic)",
+        "Coding Test(2 medium level question under 40 min)",
+        "Technical interviews",
+        "HR interviews"
+      ],
+      "eligibilityCriteria": [
+        "BE/B. Tech/MCA (CSE/IT/ECE/EEE/ETC/EIE/ICE)",
+        "60% or 6.0 CGPA throughout 10th,12th & UG/PG",
+        "No Active Backlog",
+        "Academic gap of less than 1 year is allowed (between the course and during the course), more than 1 year is not eligible",
+        "M.E, M.Tech not eligible"
+      ],
+      "aptitudeSyllabus": [
+       "Number System",
+        "Data Interpretation",
+        "Elementary Statistics",
+        "HCF LCM",
+        "Mixture and alligation",
+        "percentage",
+        "Permutation and combination",
+        "Pipes and Cisterns",
+        "profit and loss",
+        "Speed-Distance and time",
+        "Time and Work",
+        "Simple Interest & compound Interest"
+      ],
+      "reasoningSyllabus": [
+        "Logical Reasoning",
+        "Analytical Reasoning",
+        "Age Questions",
+        "Blood relation",
+        "Coding Decoding",
+        "Data Sufficiency",
+        "Direction",
+        "Letter and number Series",
+        "Seating arrangements"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Error spotting",
+        "Article",
+        "Synonym and Antonym",
+        "Sentence Correction and Sentence Completion"
+      ],
+      "website": "https://www.hexaware.com"
+    },
+    {
+      "name": "Capgemini",
+      "description": "Capgemini is a global leader in consulting, digital transformation, technology, and engineering services. It hires freshers for Different Positions - SDE Interns, Trainee Engineers, Software Engineers, Cloud Engineers, Network Security / Cyber Security Engineers, Database Administrator, HR Executive/Manager, Marketing Executive/Manager, Data Entry Customer Executive and for packages varies for same. It's hiring process is held from Superset Platform or you can simply apply from company's official website for the provided roles. For passing year 2024 hiring for analyst (4.25 lakh) and Senior Analyst (7.5 Lakh). It has its offices around 40 countries.",
+      "hiringFlow": [
+        "Written tests (Pseudo Code, Computer network, DBMS, Cloud computing, English)",
+        "Behavioural Test",
+        "Game based Aptitude",
+        "Communication and Coding Round",
+        "Technical interviews",
+        "HR interviews"
+      ],
+      "eligibilityCriteria": [
+        "Candidates applying to Capgemini must meet educational qualifications (B.E., B.Tech, ME, MTech - All branch and specialization allowed and MCA/MSc with CS/IT branch)",
+        "60% in Academics",
+        "No Active Backlogs allow",
+        "Maximum 1 year gap allowed",
+        "Only girls are allowed",
+        "Other criteria specified for each position"
+      ],
+      "aptitudeSyllabus": [
+        "Time and Work",
+        "Speed-Distance and time",
+        "profit and loss",
+        "Mixture and alligation",
+        "Probability",
+        "Simple Interest & compound Interest",
+        "Ratio and Proportion",
+        "percentage",
+        "Number System",
+        "HCF LCM",
+        "NUMBER Series"
+      ],
+      "reasoningSyllabus": [
+        "Logical Reasoning",
+        "Analysis",
+        "Figure counting",
+        "Dice problem",
+        "Seating arrangements"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar"
+      ],
+      "website": "https://www.capgemini.com"
+    },
+    {
+      "name": "Cognizant",
+      "description": "Cognizant is an IT, business process outsourcing and consulting company providing services globally.Cognizant is an American multinational technology company that provides IT services, including digital, technology, consulting, and operations services. Headquartered in Teaneck, New Jersey, Cognizant is part of the NASDAQ-100 and trades under CTSH. The company is renowned for its strong capabilities in AI, digital engineering, cloud computing, and IoT, helping clients drive digital transformation and solve complex business challenges.Cognizant recruits freshers primarily through campus recruitment drives and also considers applications through their career portal and job platforms. The hiring process is structured to identify candidates with robust technical skills, analytical thinking, and the ability to thrive in a dynamic, team-oriented environment. CEO: Ravi Kumar S , CFO: Jan Siegmund , CMO: Gaurav Chand. Candidates should apply for only ONE category (GenC Elevate or GenC)",
+      "hiringFlow": [
+        "Written tests",
+        "Technical interviews",
+        "HR interviews"
+      ],
+      "eligibilityCriteria": [
+        "B.E/B.Tech/M.Tech/MCA/M.Sc IT students from 2023 batch(CSE/IT/ECE)",
+        "60% or 6.0 CGPA throughout 10th,12th & UG/PG",
+        "students with standing arrears or more than 2 years gap in education are not eligible."
+      ],
+      "aptitudeSyllabus": [
+        "Time and Work",
+        "Speed-Distance and time",
+        "profit and loss",
+        "Mixture and alligation",
+        "Probability",
+        "Simple Interest & compound Interest",
+        "Ratio and Proportion",
+        "percentage",
+        "Number System",
+        "HCF LCM",
+        "NUMBER Series"
+      ],
+      "reasoningSyllabus": [
+        "Logical Reasoning",
+        "Analytical Reasoning",
+        "Blood relation",
+        "Coding Decoding",
+        "Direction",
+        "Letter and number Series",
+        "Pattern Recognition",
+        "Seating arrangements"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Analogy",
+        "Article",
+        "Sentence Correction and Sentence Completion",
+        "Subject verb Agreement",
+        "Synonym and Antonym",
+        "Direct Indirect Speech"
+      ],
+      "website": "https://www.cognizant.com"
+    },
+    {
+      "name": "Rapidops",
+      "description": "Rapidops is an IT, business process outsourcing and consulting company providing services globally, In India its headqutars is in Ahemdabad(Gujrat).Rapidops is one of the fastest-growing digital, data, and AI companies in the US.Rapidops Inc. is a digital product development, software engineering, and consulting company that partners with businesses to deliver innovative solutions. Rapidops focuses on building smart digital platforms, applications, and products that transform businesses and deliver exceptional user experiences. The company operates across various industries including healthcare, retail, logistics, and finance, providing end-to-end services from concept to deployment.Rapidops typically recruits freshers through campus drives, online job portals, and direct applications. The hiring process generally involves multiple stages to evaluate the candidate’s technical skills, problem-solving abilities, and cultural fit. On campus hires with multiple postions and with 5-6 lpa package(6 months training/probation period)",
+      "hiringFlow": [
+        "Written tests (Pseudo Code, English, aptitude and Reasoning)",
+        "Technical interviews",
+        "HR interviews"
+      ],
+      "eligibilityCriteria": [
+        "No Active Backlog",
+        "60% or 6.0 CGPA throughout 10th,12th & UG/PG",
+        "BE/B. Tech/MCA (CSE/IT/ECE/EEE/ETC/EIE/ICE)",
+        "Should meet other criteria specified by company for particular role"
+      ],
+      "aptitudeSyllabus": [
+        "Time and Work",
+        "Speed-Distance and time",
+        "profit and loss",
+        "Mixture and alligation",
+        "Probability",
+        "Simple Interest & compound Interest",
+        "Ratio and Proportion",
+        "percentage",
+        "Number System",
+        "HCF LCM",
+        "NUMBER Series"
+      ],
+      "reasoningSyllabus": [
+        "Logical Reasoning",
+        "Analytical Reasoning",
+        "Age Questions",
+        "Blood relation",
+        "Coding Decoding",
+        "Direction",
+        "Letter and number Series",
+        "Pattern Recognition"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Article",
+        "Direct Indirect Speech",
+        "Synonym and Antonym",
+        "Sentence Correction and Sentence Completion",
+        "Subject verb Agreement"
+      ],
+      "website": "https://www.rapidops.com"
+    },
+    {
+      "name": "Wipro",
+      "description": "Wipro is an IT, business process outsourcing and consulting company providing services globally.Wipro Limited is a leading global information technology, consulting, and business process services company. It leverages the power of cognitive computing, hyper-automation, robotics, cloud, analytics, and emerging technologies to help clients adapt to the digital world and make them successful. With a comprehensive portfolio of services, a strong commitment to sustainability, and good corporate citizenship, Wipro has over 250,000 dedicated employees serving clients across six continents.Coding test Tests basic programming skills, problem-solving ability, and coding knowledge.For Preparing technical interview learns DSA,DBMS,OOPS,SDLC",
+      "hiringFlow": [
+        "Aptitude Test(Aptitude,English,Reasoning)",
+       " Wipro Communication Test",
+       "Essay writing",
+        "Online Programming Test"
+      ],
+      "eligibilityCriteria": [
+        "B.E./B. Tech (Compulsory degree)/ M.E./M. Tech (5-year integrated course)",
+        "Max 3 years of GAP",
+        "60% or greater in X, XII, UG",
+        "At the Assessment Stage, 1 Backlog is permitted(offer is conditional on all backlogs being cleared)",
+        "Age Limit 25 years",
+        "only Full-time course avaliable",
+        "Candidates who have taken part in any Wipro recruitment process in the last six months are ineligible"
+      ],
+      "aptitudeSyllabus": [
+        "Time and Work",
+        "Speed-Distance and time",
+        "profit and loss",
+        "Mixture and alligation",
+        "Probability",
+        "Simple Interest & compound Interest",
+        "Ratio and Proportion",
+        "percentage",
+        "Number System",
+        "HCF LCM",
+        "NUMBER Series",
+        "Time and Work",
+        "Speed-Distance and time"
+      ],
+      "reasoningSyllabus": [
+        "Logical Reasoning",
+        "Analytical Reasoning",
+        "Age Questions",
+        "Seating arrangements",
+        "Blood relation",
+        "Coding Decoding",
+        "Direction",
+        "Letter and number Series"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Error spotting",
+        "Direct Indirect Speech",
+        "Synonym and Antonym"
+      ],
+      "website": "https://www.wipro.com"
+    },
+    {
+      "name": "Accenture",
+      "description": "Accenture is an IT, business process outsourcing and consulting company providing services globally.Accenture is a global professional services company with leading capabilities in digital, cloud, and security. Combining unmatched experience and specialized skills across more than 40 industries, Accenture offers Strategy and Consulting, Interactive, Technology, and Operations services — all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With a strong focus on innovation and delivery excellence, Accenture works at the intersection of business and technology to help clients improve performance and create sustainable value for their stakeholders.Accenture recruits freshers primarily through campus recruitment drives, but they also consider applications through their career portal and other job platforms. Their hiring process is designed to identify candidates with strong analytical skills, technical proficiency, and the ability to work in a dynamic, collaborative environment.ON Campus hires for two position - Assocaitate System Engineer(4.5lpa) , Software Engineer (6.5Lpa). Mainly asked questions of pseudo code , computer network ,MS Office and 90 questions in 90 mins. For coding round - C,C++,JAVA , PYTHON and .NET. Online test platofrm is Cocubes.",
+      "hiringFlow": [
+      "Cognitive Ability and Technical assessment",
+      "Communication Round (not elminiation round)",
+      "Coding Round",
+      "Technical Interview",
+      "HR Interview"
+      
+      ],
+      "eligibilityCriteria": [
+        "60% or greater in X, XII, UG",
+        "BE/B. Tech/M.E/M.Tech (all Branch)",
+        " MCA/MSC (CS)",
+        "No Active Backlog",
+        "Graducation completing in 2024"
+      ],
+      "aptitudeSyllabus": [
+      "Elementary Statistics",
+      "HCF LCM",
+      "Mixture and alligation",
+      "Number System",
+      "Permutation and combination",
+      "percentage",
+      "Pipes and Cisterns",
+      "Probability",
+      "profit and loss",
+      "Ratio and Proportion",
+      "Simple Interest & compound Interest",
+      "Speed-Distance and time",
+      "Time and Work"
+      ],
+      "reasoningSyllabus": [
+       
+        "Logical Reasoning",
+        "Analytical Reasoning"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Analogy",
+        "Article",
+        "parajumbles"
+      ],
+      "website": "https://www.accenture.com"
+    },
+    {
+      "name": "Yash-Technologies",
+      "description": "YASH Technologies is a global technology service and outsourcing provider, offering a wide range of IT solutions to businesses around the world. Headquartered in East Moline, Illinois, USA, YASH Technologies operates multiple delivery centers across the globe, including a prominent presence in Indore, India.Founded in 1996, YASH Technologies has grown steadily, providing cutting-edge IT and business solutions to various industries, including manufacturing, chemicals, life sciences, energy and utilities, and more. The company is known for its customer-centric approach and its ability to deliver customized solutions that drive business transformation and efficiency.Achievements and Milestones----Global Presence:YASH Technologies has established a strong global presence with offices and delivery centers in North America, Europe, the Middle East, and Asia-Pacific. This global footprint allows the company to serve clients across different time zones and regions effectively. Industry Recognition:YASH Technologies has been recognized by leading industry analysts and consulting firms for its excellence in delivering IT services and solutions. The company has received accolades for its expertise in SAP services, cloud computing, digital transformation, and managed services.SAP Gold Partner:YASH Technologies is an SAP Gold Partner, reflecting its deep expertise and experience in implementing SAP solutions. The company has successfully completed numerous SAP projects, helping clients optimize their business processes and achieve greater operational efficiency.Hires Freshers for 'Graducate Engineer trainee' Position and the online process of hiring is held on cocube platform but interview face-to-face and in-office. ",
+      "hiringFlow": [
+        "Aptitude tests (Pseudo Code, Computer network, DBMS, Cloud computing, DSA,English,)",
+        "Group Discussion",
+        "Technical interviews",
+        "MR ROUND",
+        "HR interviews"
+      ],
+      "eligibilityCriteria": [
+        "60% in Academics",
+        "BE/B. Tech/M.E/M.Tech (CSE/IT)",
+        "No Active Backlog",
+        "passing in year 2024"
+      ],
+      "aptitudeSyllabus": [
+        "Quantitative Aptitude",
+        "Numerical Ability"
+      ],
+      "reasoningSyllabus": [
+        "Logical Reasoning",
+        "Analytical Reasoning",
+        "Blood relation",
+        "Coding Decoding",
+        "Pattern Recognition"
+      ],
+      "verbalSyllabus": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Direct Indirect Speech",
+        "Error spotting",
+        "Sentence Correction and Sentence Completion",
+        "Synonym and Antonym",
+        "parajumbles",
+        "Subject verb Agreement",
+        "Article"
+      ],
+      "website": "https://www.yash.com"
+    }
+  ]
+  
